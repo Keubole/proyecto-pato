@@ -2,6 +2,8 @@ body
     
     .fondoprincipal{
         background-color: black;
+        width: 100vw;
+    
        height: 1500px;
     
     }
@@ -10,6 +12,7 @@ body
     
     background-size: contain;
     height: 200px;
+    width: 100vw;
     background-repeat: repeat-x;
     background-position: center;
     }

@@ -1,11 +1,9 @@
 body
     
     .fondoprincipal{
-        background-color: black;
-        width: 100vw;
-    
-       height: 1500px;
-    
+    background-color: black;
+    width: 100vw;
+    height: 1500px;
     }
     .patorce{
     background-image: url(./imaproyecto/patorce.jpg);

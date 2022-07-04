@@ -1,0 +1,27 @@
+body
+a{
+    color:rgb(0,141, 71);
+}
+.registro{
+    background-image: url(./imaproyecto/patorce.jpg);
+color:salmon;
+width: 100vw;
+height: 100vw;
+text-align: center;
+}
+.contenedorregistro{
+    background-color: black;
+    background-size: contain;
+    height: 100px;
+    width: 200px;
+    top:180px;
+    left:40%;
+    position:absolute;
+}
+.datosregistro{
+background-color: salmon;
+color:black;
+}
+.enviar:hover{
+font-size: 20px;
+}

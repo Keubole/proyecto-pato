@@ -1,0 +1,175 @@
+body
+    
+    .fondoprincipal{
+        background-color: black;
+       height: 1500px;
+    
+    }
+    .patorce{
+    background-image: url(./imaproyecto/patorce.jpg);
+    
+    background-size: contain;
+    height: 200px;
+    background-repeat: repeat-x;
+    background-position: center;
+    }
+    .textoprincipal{
+    background-color: black;
+    padding-top: 20px;
+    color: salmon;
+    text-align: center;
+    }
+    .registrate{
+    background-color: salmon;
+    color: black;
+    height: 110px;
+    width:200px;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    left:150px;
+   }
+   a{ 
+    color:rgb(0, 141, 71);
+   }
+   .pato{
+    background-image: url(./imaproyecto/paton.jpg);
+    background-size: contain;
+    height: 150px;
+    width:150px;
+    background-repeat: no-repeat;
+    position:absolute;
+    left:600px;
+    top: 315px
+   }
+   .conocenos{
+    background-color: salmon;
+    color: black;
+    background-size: contain;
+    height: 110px;
+    width: 400px;
+    position:absolute;
+    top:308px;
+    left:850px;
+    border-radius: 10px;
+    text-align: center;
+   }
+   .formatofotos{
+    display: flex;
+    justify-content: space-around;
+   }    
+   .jordan{
+    background-image: url(./imaproyecto/jordan.jpg);
+    background-color: 276600;
+    color: black;
+    background-size: contain;
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+   }
+   .dunk{
+    background-image: url(./imaproyecto/dunkunc.jpg);
+    background-color: 276600;
+    color: black;            
+    background-size: contain;
+    height: 309px;
+    width: 309px;                       
+    background-repeat: no-repeat;
+   }
+   .dunkchin{
+    background-image: url(./imaproyecto/dunkchin.jpg);
+    background-color: 276600;
+    color: black;            
+    background-size: contain;
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+   }
+   .tee{
+    background-image: url(./imaproyecto/jordant.jpg);
+    background-color: 276600;
+    color: black;            
+    background-size: contain;
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+   }
+   .hoddie{
+    background-image: url(./imaproyecto/jordanh.jpg);
+    background-color: 276600;
+    color: black;            
+    background-size: contain;
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+   }
+   .buscador{
+    background-size: contain;
+    width: 200px;
+    height: 30px;
+    background-color: salmon;
+    color:black;
+    position: absolute;
+    top:30px;
+    right: 50px;
+   }
+   .pago{
+    background-image: url(./imaproyecto/pago.png);
+    background-size: contain;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+   }
+   .contacto{
+    position:absolute;
+    left :50px;
+    color: rgb(0, 141, 71);
+   }
+   .face{
+    background-image: url(./imaproyecto/face.png);
+    background-size: contain;
+    height: 50px;
+    background-repeat: no-repeat;
+    position:relative;
+    left:80px;
+    top:80px
+   }
+   .whats{
+    background-image: url(./imaproyecto/whatsapp.jpg);
+    background-size: contain;
+    height: 50px;
+    background-repeat: no-repeat; 
+    position:relative;
+    left:80px;
+    top:80px;
+    color:salmon;
+
+   }
+   .ig{
+    background-image: url(./imaproyecto/iglogo.jpg);
+    background-size: contain;
+    height: 50px;
+    background-repeat: no-repeat; 
+    position:relative;
+    left:80px;
+    top:80px
+   }
+   .w{
+    color:seagreen;
+    position:relative;
+    left:150px;
+    top:45px
+   }
+   .i{
+    color:seagreen;
+    position:relative;
+    left:150px;
+    top:45px
+   }
+   .f{
+    color:seagreen;
+    position:relative;
+    left:150px;
+    top:50px
+   }
+

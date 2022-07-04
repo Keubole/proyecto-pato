@@ -21,6 +21,10 @@ body
     color: salmon;
     text-align: center;
     }
+    .formatoprincpal{
+    display: flex;
+    justify-content: space-around;
+    }
     .registrate{
     background-color: salmon;
     color: black;

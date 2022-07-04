@@ -3,7 +3,8 @@ body
     .fondoprincipal{
     background-color: black;
     width: 100vw;
-    height: 1500px;
+    height: 100vw;
+    position: relative;
     }
     .patorce{
     background-image: url(./imaproyecto/patorce.jpg);
@@ -41,7 +42,7 @@ body
     background-repeat: no-repeat;
     position:absolute;
     left:600px;
-    top: 315px
+    top: 100px
    }
    .conocenos{
     background-color: salmon;
@@ -50,7 +51,7 @@ body
     height: 110px;
     width: 400px;
     position:absolute;
-    top:308px;
+    top:100px;
     left:850px;
     border-radius: 10px;
     text-align: center;
